@@ -1,0 +1,46 @@
+C:\MyPrograms\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\MyPrograms\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\MyPrograms\WindowsApplication1\bin\Debug\MySql.Data.dll
+C:\MyPrograms\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\MyPrograms\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\MyPrograms\WindowsApplication1\obj\Debug\ClassBuilder.csproj.GenerateResource.Cache
+C:\MyPrograms\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\MyPrograms\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\MyPrograms\WindowsApplication1\obj\Debug\WindowsApplication1.frmBuilder.resources
+C:\MyPrograms\ClassBuilder\bin\Debug\ClassBuilderMySQL.exe
+C:\MyPrograms\ClassBuilder\bin\Debug\ClassBuilderMySQL.pdb
+C:\MyPrograms\ClassBuilder\bin\Debug\MySql.Data.dll
+C:\MyPrograms\ClassBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\MyPrograms\ClassBuilder\obj\Debug\ClassBuilderMySQL.Properties.Resources.resources
+C:\MyPrograms\ClassBuilder\obj\Debug\ClassBuilder.csproj.GenerateResource.Cache
+C:\MyPrograms\ClassBuilder\obj\Debug\ClassBuilderMySQL.exe
+C:\MyPrograms\ClassBuilder\obj\Debug\ClassBuilderMySQL.pdb
+C:\MyPrograms\ClassBuilder\obj\Debug\ClassBuilderMySQL.frmImage.resources
+C:\MyPrograms\ClassBuilder\obj\Debug\ClassBuilderMySQL.frmBuilder.resources
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ClassBuilderMySQL.exe
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ClassBuilderMySQL.pdb
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ResolveAssemblyReference.cache
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ClassBuilderMySQL.frmBuilder.resources
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ClassBuilderMySQL.frmImage.resources
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ClassBuilderMySQL.Properties.Resources.resources
+C:\MyPrograms\ClassBuilder(MSSQL)\obj\Debug\ClassBuilder.csproj.GenerateResource.Cache
+C:\MyPrograms\ClassBuilder(MSSQL)\bin\Debug\ClassBuilderMySQL.exe
+C:\MyPrograms\ClassBuilder(MSSQL)\bin\Debug\ClassBuilderMySQL.pdb
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.exe
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.pdb
+C:\MyPrograms\ClassBuilder(Sybase)\bin\Debug\ClassBuilderMySQL.exe
+C:\MyPrograms\ClassBuilder(Sybase)\bin\Debug\ClassBuilderMySQL.pdb
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ResolveAssemblyReference.cache
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.frmBuilder.resources
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.frmImage.resources
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.Properties.Resources.resources
+C:\MyPrograms\ClassBuilder(Sybase)\obj\Debug\ClassBuilder.csproj.GenerateResource.Cache
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.exe
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.pdb
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\bin\Debug\ClassBuilderMySQL.exe
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\bin\Debug\ClassBuilderMySQL.pdb
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ResolveAssemblyReference.cache
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilder.csproj.GenerateResource.Cache
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderSybase.frmBuilder.resources
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderSybase.frmImage.resources
+C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderSybase.Properties.Resources.resources
