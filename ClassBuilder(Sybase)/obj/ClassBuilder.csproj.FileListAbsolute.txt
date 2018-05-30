@@ -44,3 +44,5 @@ C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilder.csproj.
 C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderSybase.frmBuilder.resources
 C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderSybase.frmImage.resources
 C:\DCS Projects\BackUp\CLASS\ClassBuilder(Sybase)\obj\Debug\ClassBuilderSybase.Properties.Resources.resources
+D:\GIT_Bash\ClassBuilder\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.exe
+D:\GIT_Bash\ClassBuilder\ClassBuilder(Sybase)\obj\Debug\ClassBuilderMySQL.pdb
